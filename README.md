@@ -325,6 +325,7 @@ For more information about the above compiled landscape for 2025, please refer t
 
 ### Pipeline Observability
 - [Elementry](https://github.com/elementary-data/elementary) - A dbt-native data observability solution to monitor data pipelines
+- [data-staleness-otel](https://github.com/anirudhrajreliability/otel-data-staleness) - A vendor-neutral OpenTelemetry convention and toolkit for data freshness/staleness monitoring across SQL, Kafka, Kinesis and files
 
 
 ## DATA INFRASTRUCTURE
